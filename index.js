@@ -24,7 +24,7 @@ const PORT = process.env.PORT || 3000;
 
 async function start() {
   try {
-    await mongoose.connect(keys.MONGODB_URI,
+    await mongoose.connect('mongodb+srv://Lev:xvgYWUbEepnDqbxa@cluster0-5sstg.mongodb.net/test?retryWrites=true&w=majority',
       { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false });
 
     app.listen(PORT, () => {
