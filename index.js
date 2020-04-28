@@ -5,8 +5,6 @@ const authRoutes = require('./routes/auth');
 const itemRoutes = require('./routes/items');
 const commentsRoutes = require('./routes/comments');
 
-const keys = require('./keys');
-
 const app = express();
 
 app.use(express.static(path.join(__dirname, 'public')));
@@ -24,7 +22,7 @@ const PORT = process.env.PORT || 3000;
 
 async function start() {
   try {
-    await mongoose.connect('mongodb+srv://Lev:xvgYWUbEepnDqbxa@cluster0-5sstg.mongodb.net/test?retryWrites=true&w=majority',
+    await mongoose.connect('mongodb+srv://Lev:xvgYWUbEepnDqbxa@cluster0-5sstg.mongodb.net/six-sities?retryWrites=true&w=majority',
       { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false });
 
     app.listen(PORT, () => {
