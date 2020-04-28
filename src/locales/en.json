@@ -1,0 +1,97 @@
+{
+    "cities": {
+      "Paris": "Paris",
+      "Cologne": "Cologne",
+      "Brussels": "Brussels",
+      "Amsterdam": "Amsterdam",
+      "Hamburg": "Hamburg",
+      "Dusseldorf": "Dusseldorf"
+    },
+    "places": {
+      "empty": "No places to stay available",
+      "emptytext": "We could not find any property availbale at the moment in",
+      "results": "{{count}} place to stay in",
+      "results_plural": "{{count}} places to stay in"
+    },
+    "sort": {
+      "sortBy": "Sort by",
+      "Popular": "Popular",
+      "PriceLow": "Price: low to high",
+      "PriceHigh": "Price: high to low",
+      "TopRated": "Top rated first"
+    },
+    "Autorisation": "Autorisation",
+    "night": "night",
+    "room": "room",
+    "apartament": "apartament",
+    "entireplace": "Entire place",
+    "house": "house",
+    "bedrooms": "{{count}} bedroom",
+    "bedrooms_plural": "{{count}} bedrooms",
+    "persons": "Max {{count}} adult",
+    "persons_plural": "Max {{count}} adults",
+    "meethost": "Meet the host",
+    "whatinside": "What's inside",
+    "savedlisting": "Saved listing",
+    "yourhousing": "Your renting housings",
+    "insideitem": {
+      "Wi-Fi": "Wi-Fi",
+      "Heating": "Heating",
+      "Kitchen": "Kitchen",
+      "Fridge": "Fridge",
+      "Washing machine": "Washing machine",
+      "Coffee machine": "Coffee machine",
+      "Dishwasher": "Dishwasher",
+      "Towels": "Towels",
+      "Baby seat": "Baby seat",
+      "Cabel TV": "Cabel TV",
+      "Breakfast": "Breakfast",
+      "Laptop friendly workspace" : "Laptop friendly workspace",
+      "Air conditioning": "Air conditioning"
+    },
+    "auth": {
+      "signin": "Sign in",
+      "signup": "Sign up",
+      "email": "Email",
+      "password": "Password",
+      "emailerror": "input correct email",
+      "passworderror": "input correct password",
+      "passwordsecond": "Repeat password",
+      "name": "Name",
+      "nameerror": "The name is too short",
+      "passwordseconderror": "Passwords do not match",
+      "regerror": "User already exists",
+      "paserror": "Incorrect password",
+      "usererror": "This user does not exists"
+    },
+    "review": {
+      "reviews": "Reviews",
+      "yourreview": "Your review",
+      "submittext1": "To submit review please make sure to set",
+      "submittext2": "rating",
+      "submittext3": "and describe your stay with at least",
+      "submittext4": "50 characters",
+      "submit": "Submit",
+      "textarea": "Tell how was your stay, what you like and what can be improved",
+      "neighbourhood": "Other places in the neighbourhood"
+    },
+    "userpage": {
+      "nothing": "Nothing yet saved.",
+      "nothingtext": "Save properties to narrow down search or plan yor future trips.",
+      "nothingapartamentstext": "You dont rent any housing",
+      "addhousing": "Add housing"
+    },
+    "addPage": {
+      "create": "Create new housing",
+      "title": "Title",
+      "price": "Input price in euro per night",
+      "choosecity": "Choose city",
+      "choosetype": "Choose type of housing",
+      "bedrooms": "Bedrooms quantity",
+      "persons": "Housing capacity in persons",
+      "textarea": "Describe your housing",
+      "createbutton": "Create",
+      "adress": "Adress",
+      "choosemainImg": "Add pictures"
+    }
+}

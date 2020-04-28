@@ -1,0 +1,21 @@
+---
+
+plugins: ['babel', 'react']
+
+env:
+  es6: true
+  node: true
+  browser: true
+  commonjs: true
+
+parser: babel-eslint
+
+extends: ['airbnb-base', plugin:react/recommended]
+
+
+rules:
+  no-console: 0
+
+settings:
+  react:
+    version: '16'

@@ -1,0 +1,99 @@
+{
+    "cities": {
+      "Paris": "Париж",
+      "Cologne": "Кёльн",
+      "Brussels": "Брюссель",
+      "Amsterdam": "Амстердам",
+      "Hamburg": "Гамбург",
+      "Dusseldorf": "Дюссельдорф"
+    },
+    "places": {
+        "empty": "Жилье не найдено",
+        "emptytext": "Мы не смогли найти доступное жилье в этом городе",
+        "results": "Найден {{count}} вариант в городе",
+        "results_1": "Найдено {{count}} варианта в городе",
+        "results_2": "Найдено {{count}} вариантов в городе"
+    },
+    "sort": {
+        "sortBy": "Сортировка по",
+        "Popular": "По пулярности",
+        "PriceLow": "По цене: от низкой к высокой",
+        "PriceHigh": "По цене: от высокой к низкой",
+        "TopRated": "По рейтингу"
+    },
+    "Autorisation": "Авторизация",
+    "night": "за ночь",
+    "room": "комната",
+    "apartament": "квартира",
+    "house": "дом",
+    "entireplace": "Жильё целиком",
+    "bedrooms": "{{count}} спальня",
+    "bedrooms_1": "{{count}} спальни",
+    "bedrooms_2": "{{count}} спален",
+    "persons": "Максимум {{count}} взрослый",
+    "persons_1": "Максимум {{count}} взрослых",
+    "whatinside": "Что внутри",
+    "meethost": "Знакомьтесь с хозяином",
+    "savedlisting": "Сохраненные в закладки",
+    "yourhousing": "Жилье, которое вы сдаете",
+    "insideitem": {
+      "Wi-Fi": "Wi-Fi",
+      "Heating": "Обогрев",
+      "Kitchen": "Кухня",
+      "Fridge": "Холодильник",
+      "Washing machine": "Стиральная машина",
+      "Coffee machine": "Кофе машина",
+      "Dishwasher": "Посудомоечная машина",
+      "Towels": "Полотенца",
+      "Baby seat": "Детское сиденье",
+      "Cabel TV": "Кабельное ТВ",
+      "Breakfast": "Завтрак",
+      "Laptop friendly workspace" : "Удобно с ноутбуком",
+      "Air conditioning": "Кондиционер"
+    },
+    "auth": {
+      "signin": "Войти",
+      "signup": "Регистрация",
+      "email": "Почта",
+      "password": "Пароль",
+      "emailerror": "введите корректный email",
+      "passworderror": "пароль слишком короткий",
+      "passwordsecond": "Повторите пароль",
+      "name": "Имя",
+      "nameerror": "Имя слишком короткое",
+      "passwordseconderror": "Пароли не совпадают",
+      "regerror": "Такой пользователь уже существует",
+      "paserror": "Неправильный пароль",
+      "usererror": "Такого пользователя не существует"
+    },
+    "review": {
+      "reviews": "Отзывы",
+      "yourreview": "Ваш отзыв",
+      "submittext1": "Чтобы отправить отзыв убедитесь, что вы поставили",
+      "submittext2": "оценку",
+      "submittext3": "и описали ваше проживание в покрайней мере",
+      "submittext4": "50 буквах",
+      "submit": "Оправить",
+      "textarea": "Расскажите как вам жилось, что понравилось и что можно улучшить",
+      "neighbourhood": "Другие варианты поблизости"
+    },
+    "userpage": {
+      "nothing": "Ничего пока не сохранено",
+      "nothingtext": "Добавьте закладки, чтобы спланировать будующие путешествия",
+      "nothingapartamentstext": "Вы не сдаете жилье в аренду",
+      "addhousing": "Создать жилье на аренду"
+    },
+    "addPage": {
+      "create": "Создать новое жилье",
+      "title": "Название",
+      "price": "Введите цену в евро за ночь",
+      "choosecity": "Выберите город",
+      "choosetype": "Выберите тип жилья",
+      "bedrooms": "Количество спален",
+      "persons": "Вместимость (человек)",
+      "textarea": "Опишите ваше жильё",
+      "createbutton": "Создать",
+      "adress": "Адрес",
+      "choosemainImg": "Добавьте фотографии"
+    }
+  }
